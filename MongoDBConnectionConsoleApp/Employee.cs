@@ -13,5 +13,7 @@ namespace MongoDBConnectionConsoleApp
         public string Company { get; set; }
         public int YearsOfExp { get; set; }
 
+        //properties can be nullable
+
     }
 }
